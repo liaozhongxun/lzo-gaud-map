@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,li,ol{
+    list-style: none;
+}
+
+img{
+    display: inline-block;
+}
+
+#container{
+    width: 100%;
+    height: 400px;
+    background-color: #f00;
+}
